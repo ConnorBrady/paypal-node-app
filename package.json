@@ -1,0 +1,25 @@
+{
+  "name": "paypal-node-app",
+  "version": "1.0.0",
+  "description": "paypal node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConnorBrady/paypal-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConnorBrady/paypal-node-app/issues"
+  },
+  "homepage": "https://github.com/ConnorBrady/paypal-node-app#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1",
+    "paypal-rest-sdk": "^1.7.1"
+  }
+}
